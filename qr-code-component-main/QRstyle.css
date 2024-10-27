@@ -1,0 +1,36 @@
+body
+{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #0f0f0f;
+    height: 100vh;
+    margin: 0px;
+}
+.container
+{
+background-color: white;
+border-radius: 10px;
+    box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+    text-align: center;
+    padding-left: 0px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-right: 0px;
+    width: 300px;
+}
+img
+{
+    padding: 0px;
+    margin: 0px;
+    height: 250;
+    width: 250px;
+    border-radius: 10px;
+}
+h2{
+    margin: 40px 0 10px;
+    font-size: 1.5em;
+}
+p{
+    color: #555;
+}
